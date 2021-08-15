@@ -1,0 +1,41 @@
+Módulo 05 - Aula 02 - Desafio de Projeto  - Git/GitHub
+
+Criando Seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+
+Desafio Git/Github
+
+Iniciar um repositório no próprio GitHub. (Instruções no SimpleMind Pro)
+
+Então:
+
+1) Copiar endereço https no GitHub
+2) Clone - Repositório para maquina local
+3) Dentro da pasta
+
+==== Comando GIT CLONE =====
+
+git clone https:// ...(endereço https fornecido no GitHub)
+
+4) Entrar na pasta do projeto e digitar: 
+
+git status
+
+====================================================================
+
+5) Depois de adicionar qualquer arquivo ou pasta nesse repositório local usar o comando:
+
+git add * ou git add .  ou git add -a  para adicionar todos os arquivos para staging.
+
+
+6) Então, usar o comando git commit -m para inserir uma mensagem:
+
+git commit -m "Inclusão das anotações do curso de Git/ Github"
+
+7) Comando git push (enviar para repositório remoto).
+
+git push origin main
+
+
+
+
+
