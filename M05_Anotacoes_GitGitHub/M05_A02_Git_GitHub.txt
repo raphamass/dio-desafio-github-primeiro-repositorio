@@ -33,7 +33,8 @@ git commit -m "Inclusão das anotações do curso de Git/ Github"
 
 7) Comando git push (enviar para repositório remoto).
 
-git push origin main
+git push origin main - user name and PAT
+
 
 
 
